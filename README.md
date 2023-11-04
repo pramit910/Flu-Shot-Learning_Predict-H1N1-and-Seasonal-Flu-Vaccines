@@ -84,4 +84,5 @@ The mean of these two scores will be the overall score, where a higher mean valu
 #### References
 
 1. https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
-2. 
+2. DrivenData. (2020). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines. Retrieved [Month Day Year] from https://www.drivendata.org/competitions/66/flu-shot-learning.
+3. 
